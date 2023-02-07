@@ -1,1 +1,2 @@
-# welcome to 100 days of C
+# day6
+Given an integer array nums, move all the even integers at the beginning of the array followed by all the odd integers.
